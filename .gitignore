@@ -1,0 +1,9 @@
+.~lock*
+individuo/input/*
+individuo/result
+
+hogar/input/*
+hogar/result
+
+
+.vscode/launch.json
